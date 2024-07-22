@@ -24,7 +24,6 @@
 /wp-content/themes/themes.php
 /wp-admin/network/network.php
 /wp-conflg.php
-/xleet-shell.php
 /wp-includes/Text/radio.php
 /.well-known/acme-challenge/xmrlpc.php?p=
 /.well-known/pki-validation/xmrlpc.php?p=
@@ -66,7 +65,6 @@
 /wso.php
 /xxl.php
 /wp.php
-/ws.php
 /M1.php
 /fm1.php
 /wwr.php
