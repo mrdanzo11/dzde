@@ -18,6 +18,13 @@
 /mine.php
 /chosen.php
 /simple.php
+/test.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/network.php
+/helpdesk//vendor/htmlawed/htmlawed/gel4y.php
+/vendor/htmlawed/htmlawed/gel4y.php
+/glpi/vendor/network.php
+/vendor/htmlawed/htmlawed/gel4y.php
+/ticket/vendor/htmlawed/htmlawed/gel4y.php
 /alfa.php
 /alexus.php
 /install.php
